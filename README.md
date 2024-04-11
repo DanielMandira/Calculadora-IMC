@@ -32,7 +32,7 @@ Execute o programa
 
 ## Stack utilizada
 
-[![C#](https://img.shields.io/badge/C%20Sharp-404040?style=for-the-badge&logo=c%20sharp)]()
+[![C#](https://img.shields.io/badge/C#-404040?style=for-the-badge&logo=csharp)]()
 [![MySQL](https://img.shields.io/badge/MySQL-404040?style=for-the-badge&logo=MySQL)]()
 
 
